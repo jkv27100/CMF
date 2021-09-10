@@ -1,0 +1,19 @@
+Money Flow Multiplier = ((Close value – Low value) – (High value – Close value)) / (High value – Low value)
+
+MFM = ((1851.800049-1792.099976)-(1858-1851.800049))/(1858-1792.099976)
+
+	= ((59.700073)-(6.199951))/(65.900024)
+	
+	= (53.500122)/(65.900024)
+
+	= 0.811838
+
+Money Flow Volume = Money Flow Multiplier x Volume for the Period
+
+MFV = 0.811838 x 21697962
+	
+	= 17610359.05
+
+CMF = 21-day Average of the Daily Money Flow / 21-day Average of the Volume
+
+	= 17610359.05 / 21697962
